@@ -1180,4 +1180,9 @@ if __name__ == "__main__":
     print("• IBM Watsonx API credentials")
     print("\n" + "="*60 + "\n")
     
-    demo.launch(share=True, debug=True)
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=7860,
+        share=False,
+        debug=False,
+    )
