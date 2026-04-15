@@ -1,4 +1,4 @@
-gradio
+gradio>=4.0,<5.0
 pandas
 rapidfuzz
 deep-translator
@@ -6,5 +6,5 @@ reportlab
 ibm-watsonx-ai
 Pillow
 pytesseract
-opencv-python
+opencv-python-headless
 numpy
