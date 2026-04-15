@@ -1,0 +1,10 @@
+gradio
+pandas
+rapidfuzz
+deep-translator
+reportlab
+ibm-watsonx-ai
+Pillow
+pytesseract
+opencv-python
+numpy
